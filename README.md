@@ -1,21 +1,14 @@
-# Era ecomemmerce React.js app
-
-### [Live Demo](https://era-ecommerce-react.firebaseapp.com)
+# Ecomemmerce React.js app
 
 ## What is this??
 
-> This is a modern ecommerce concept app made with React.js. Moreoften **I work on the most important features to get different experiences.**  
+> This is a modern ecommerce concept app made with React.js. 
 
 ## Future plans
 > I am planning to implement these features:
 > **Typescript;**
 > **Unit-testing;**
 > **Server-side on Python or Node.js**
-
-## How this project can be helpful for you??
-> If you are learning some new feature or technology, for instance, python for back-end. You could develop the back-end side for this app. And **you won't need to spent any time for developing front-end side.** You will not spent extra time for styling and designing the app. **Just fork me and do the work**
-
-> Contact me, please, if you have any interest, question or misunderstanding ))
 
 ### Features
 
